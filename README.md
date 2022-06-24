@@ -15,5 +15,11 @@ python -m venv [envname]
 ```
 .\py39\Scripts\activate
 ```
+> (py39) PS C:\Users\image-matching-akaze>  
 
-### 
+などとなることを確認する。
+
+### pip install
+```
+pip install -r requirements.txt
+```
